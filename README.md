@@ -7,6 +7,7 @@ Notes/documentation project containing reference material and artifacts.
 - `rural vs mars projet`
 - `CONTRIBUTING.md`
 - `README.md`
+- `docs/PROJECT_CONTEXT.md`
 - `QUICKSTART.md`
 - `LICENSE`
 
